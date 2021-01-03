@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gcexcel-2.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../gcexcel-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
